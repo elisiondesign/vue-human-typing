@@ -5,7 +5,7 @@
 ```html
 <human-typing :text="project.categories" :options="{...}"></human-typing>
 ```
-```json
+```js
 options : {
     delay: Number, 
     speed: Number, 
